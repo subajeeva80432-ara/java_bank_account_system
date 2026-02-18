@@ -1,2 +1,21 @@
 # java_bank_account_system
 A simple console-based Bank Account Management System built using Java. This project demonstrates core Object-Oriented Programming concepts such as classes, objects, methods, and basic user input handling.
+
+
+# Java Bank Account System
+## Features
+- Create Bank Account
+- Deposit Money
+- Withdraw Money
+- Display Account Details
+
+## Concepts Used
+- Classes & Objects
+- Methods
+- Scanner Class
+- Basic OOP Principles
+
+## Technologies
+- Java
+- VS Code
+
